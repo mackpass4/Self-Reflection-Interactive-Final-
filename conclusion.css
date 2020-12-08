@@ -1,0 +1,52 @@
+.one {
+  background:black;
+  padding:30vh;
+}
+
+.two {
+  background:grey;
+  padding:30vh;
+
+}
+
+.three{
+  background:white;
+  padding:30vh;
+}
+
+h1{
+  color:white;
+  font-size:50px;
+  text-align: center;
+  text-shadow:2px 2px grey;
+}
+
+h2{
+  color:white;
+  text-shadow: 2px 2px black;
+  font-size:50px;
+  text-align: center;
+}
+
+h3{
+  color:grey;
+  text-shadow: 2px 2px black;
+  font-size:50px;
+  text-align: center;
+}
+p{
+  text-align:center;
+  font-size:27px;
+}
+
+textarea{
+ display:block;
+ margin-left:auto;
+ margin-right:auto;
+}
+
+input{
+ display:block;
+ margin-left:auto;
+ margin-right:auto;
+}
